@@ -13,7 +13,7 @@
 
 ## 🚀 Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=aws,bash,c++,django,docker,fastapi,py,javascript,kubernetes,mongodb,mysql,nodejs,react,postgres,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,bash,cpp,django,docker,fastapi,py,javascript,kubernetes,mongodb,mysql,nodejs,react,postgres,postman)](https://skillicons.dev)
 
 <!--
 **RitikaRege31/RitikaRege31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
