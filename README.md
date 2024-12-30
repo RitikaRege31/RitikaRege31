@@ -1,7 +1,7 @@
 ## Hi, I am Ritika Rege👋
 
 - 👨‍💻 **Proficient in Python** and **C++**.
-- 🌱 Currently **Big Data** and diving deeper into **Docker** and **Kubernetes**.
+- 🌱 Currently exploring **Big Data** and diving deeper into **Docker** and **Kubernetes**.
 - 👀 **Elementary skills in JavaScript and React** (still improving my skills and learning more).
 - 🛠️ Hands-on experience with **SQL**, **Django**, **FastAPI**, and **Postgres**.
 - 🚀 Familiar with **AWS**, **Postman** for cloud and development operations.
